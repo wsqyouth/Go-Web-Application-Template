@@ -56,7 +56,6 @@ curl -XGET -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYX
 * gin框架的粗略使用，restful接口的实现流程
 * 中间件的使用
 * 在接口拉取时使用了go并发id_map实现，该思路较好
-
 ###### 4. 项目未学习
 * swagger文档生成
 * https加密
